@@ -74,8 +74,7 @@ main h2{
     margin-top: 10px;
 }
 
-main span{
-    display: inline-block;
+main p{
     font-family: sans-serif;
     font-size: 15px;
     margin-top: 8px;
